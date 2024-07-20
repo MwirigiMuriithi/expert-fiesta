@@ -1,2 +1,2 @@
 # expert-fiesta
-a django and next.js house rentals app
+next.js house rentals frontend app
